@@ -1,0 +1,19 @@
+
+@media only screen and (min-width: 992px)
+{
+    .rat{
+        padding-left: 55px;
+    }     
+}
+@media only screen and (max-width: 990px)
+{
+    .rat{
+        padding-top: 55px;
+    }     
+}
+@media only screen and (max-width: 767px)
+{
+    .rat{
+        padding-top: 0px;
+    }     
+}
